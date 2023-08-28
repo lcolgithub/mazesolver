@@ -189,4 +189,4 @@ class Maze:
 
 
     def solve(self):
-        self._solve_r(0, 0)
+        return self._solve_r(0, 0)
